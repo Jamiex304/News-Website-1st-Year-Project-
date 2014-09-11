@@ -1,0 +1,164 @@
+body {
+
+background-size: 100%;
+background-color:white;
+background-image:url("Tech_Background_by_trv333.jpg");
+margin:0 auto;
+}
+h1 {font-size:100%}
+
+#wrapper
+{
+
+height:2500px;
+width:1300px;
+font-family:Georgia;
+margin:0 auto;
+}
+
+#header
+{
+color:white;
+height:8%;
+width:100%;
+font-family:'Akronim', cursive;
+font-size:50px;
+float:right;
+text-align:center;
+text-transform:uppercase;
+}
+#sidebar
+{
+height:94%;
+width:20%;
+float:left;
+text-align:center;
+border:2px solid;
+border-radius:25px;
+}
+#content
+{
+height:102%;
+width:99.6%;
+float:Right-align content;
+border:2px solid;
+border-radius:25px;
+}
+h2
+{
+font-family:'Audiowide', cursive;
+font-size:25px;
+color:red;
+}
+#Content2
+{
+height:94%;
+width:48%;
+float:left;
+text-align:center;
+border:2px solid;
+border-radius:25px;
+}
+#Content3
+{
+height:92.1%;
+width:30.95%;
+float:right;
+text-align:center;
+border:2px solid;
+border-radius:25px;
+}
+p
+{
+color:white;
+font-family: 'Audiowide', cursive;
+font-size:14px;
+}
+h3
+{
+font-family:'Audiowide', cursive;
+font-size:20px;
+color:red;
+}
+#content4
+{
+height:94%;
+width:70%;
+float:left;
+text-align:center;
+border:2px solid;
+border-radius:25px;
+}
+h4
+{
+font-family:'Akronim', cursive;
+font-size:40px;
+color:white;
+}
+ body{
+ font-family:'Akronim', cursive;
+ font-size:15px;
+ }
+ p, h1, form, button{border:0; margin:0; padding:0;}
+ .spacer{clear:both; height:1px;}
+ .myform{
+ margin:0 auto;
+ width:400px;
+ padding:14px;
+ }
+ 
+
+/* ----------- stylized ----------- */
+ #stylized{
+ border:solid 2px;
+}
+ #stylized h1 {
+ font-size:14px;
+ font-weight:bold;
+ margin-bottom:8px;
+ }
+#stylized label{
+ display:block;
+ font-weight:bold;
+ text-align:right;
+ width:140px;
+ float:left;
+ color:white;
+ }
+ #stylized .small{
+ color:white;
+ display:block;
+ font-size:14px;
+ font-weight:normal;
+ text-align:right;
+ width:140px;
+ }
+ .boxes { float: left ; padding:4px 2px;margin:2px 0 20px 10px;color:white;}
+ .clear { clear: both }
+ #stylized #password,#name,#email,#Account,#remail,#sname,#rpassword{
+ float:left;
+ font-size:12px;
+ padding:4px 2px;
+ border:solid 1px;
+ width:200px;
+ margin:2px 0 20px 10px;
+ }
+ #stylized #submit,#reset{
+ clear:both;
+ width:125px;
+ height:31px;
+ text-align:center;
+ line-height:31px;
+ color:red;
+ font-size:11px;
+ font-weight:bold;
+ }
+
+
+
+
+
+
+
+
+
